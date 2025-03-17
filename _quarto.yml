@@ -1,0 +1,12 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lisa D's Advanced Github Notes"
+  navbar:
+    background: primary
+    search: true
+format:
+  html:
+    theme: superhero
